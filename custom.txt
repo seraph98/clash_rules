@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,byted,DIRECT
+DOMAIN-SUFFIX,openai.com,韩國
